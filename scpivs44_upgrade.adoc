@@ -33,7 +33,7 @@ NOTE: ネットワーク設定を静的アドレスから DHCP アドレスに�
 
 . アップグレードをダウンロードします `.iso` ファイル。
 +
-.. NetApp Support Siteにログインします。 (https://mysupport.netapp.com/products/index.html)[]。
+.. NetApp Support Siteにログインします。 。
 .. 製品のリストから「 * SnapCenter Plug-in for VMware vSphere * 」を選択し、「 Download latest release * 」ボタンをクリックします。
 .. SnapCenter Plug-in for VMware vSphereのアップグレードをダウンロードします `.iso` 任意の場所にファイルを移動します。
 
