@@ -1828,7 +1828,6 @@
   <block id="3a3a5cd068731551120f43f37950768b" category="list-text">ONTAP Select の場合</block>
   <block id="4ecac70efff8d20a57fcdc88eed604e5" category="paragraph">セカンダリデスティネーションに SnapCenter Standard ライセンスを追加することを推奨しますが、必須ではありません。セカンダリシステムで SnapCenter 標準ライセンスが有効になっていないと、フェイルオーバー処理の実行後に SnapCenter を使用できません。ただし、マウントおよび接続処理を実行するには、セカンダリストレージに FlexClone ライセンスが必要です。リストア処理を実行するには、 SnapRestore ライセンスが必要です。</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="summary">SnapCenter Plug-in for VMware vSphere （ SCV ）は Linux ベースの仮想アプライアンスです。スタンドアロン構成として、 VM 、データストア、および VMDK の高速でスペース効率に優れた、クラッシュ整合性のある、 VM と整合性のあるバックアップおよびリストア処理を実現します。また、 SnapCenter Server と連携して、 SnapCenter アプリケーション固有のプラグインを対象とした VMware 環境でのアプリケーションベースのバックアップおよびリストア処理もサポートします。</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="doc">SnapCenter Plug-in for VMware vSphere のドキュメント</block>
   <block id="75ea96b6d8c73a8d05259ac9f34d62ff" category="summary">SnapCenter Plug-in for VMware vSphere GUI からサポートバンドルを生成できます。</block>
   <block id="ecfc133fda25b37d408886c1a66ff36a" category="doc">SnapCenter Plug-in for VMware vSphere GUI からサポートバンドルを生成</block>
   <block id="27425ddfb17560020340393af9842680" category="paragraph">SnapCenter Plug-in for VMware vSphere の管理 GUI にログオンするには、 IP アドレスとログインクレデンシャルが必要です。</block>
@@ -1930,7 +1929,6 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">REST API のワークフローを使用して組み込みのスケジュールを変更できます</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">アップグレード</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">同じリリースの新しいパッチにアップグレードします</block>
-  <block id="3390e3575b3e341afa2b7172ff5b33a7" category="sidebar">SnapCenter Plug-in for VMware vSphere</block>
   <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
   <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
   <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
@@ -1939,4 +1937,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="8a7a1ff56675136d7a0bec1d5e693833" category="sidebar">SnapCenter Plug-in for VMware vSphere 4.7のドキュメント</block>
 </blocks>
